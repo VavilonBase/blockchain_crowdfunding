@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run ProjectContract test",
+            "type": "shell",
+            "command": ".venv/bin/activate; brownie run projectContract.py",
+            "windows": {
+                "command": ".\\.venv\\Scripts\\activate; .venv\\Scripts\\brownie.exe run projectContract.py"
+            }
+        }
+    ]
+}

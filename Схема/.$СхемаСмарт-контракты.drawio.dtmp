@@ -1,0 +1,199 @@
+<mxfile host="Electron" modified="2024-03-12T19:00:46.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="En8kUv2mgn5js3VCISGh" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="wZLS3VO2oLWJ8G-E-Lle">
+    <mxGraphModel dx="457" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-2" value="Проекты" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-1090" width="327" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-29" value="&lt;br&gt;&lt;b style=&quot;border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Структура Проект:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="30" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-30" value="Номер проекта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="60" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-31" value="Адрес создателя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="90" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-32" value="Статус проета (Закрыт, Открыт)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="120" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6lIFenstu8OwcUmVD7Q-1" value="Название проекта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="150" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-34" value="Ссылка на проект" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="180" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-36" value="Сумма инвестиций" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="210" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-38" value="Сумма выплат" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="240" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-3" value="&lt;b&gt;Данные:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="270" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-4" value="Приватый массив: Проект" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="300" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-5" value="&lt;b&gt;Функции:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="330" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Создание проекта (название проекта, ссылка на проект) -&amp;gt; Номер проекта&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="360" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6lIFenstu8OwcUmVD7Q-3" value="ПолучениеИнформацииОПроекте(номер проекта) -&amp;gt; Проект" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="390" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-33" value="Получение всех проектов автора(адрес автора)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="420" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-35" value="Получение всех проектов()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="450" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-18" value="Получение адреса создателя проета (номер проекта)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="480" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-37" value="Изменение суммы инвестиций(номер проекта)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="510" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-27" value="Изменение суммы выплат(номер проекта)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-2" vertex="1">
+          <mxGeometry y="540" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-7" value="Инвестиции" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-1090" width="470" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-12" value="&lt;b&gt;Структура Подинвестиция:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="30" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-24" value="Номер подинвестиции" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="60" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-13" value="Адрес инвестора" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="90" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-14" value="Сумма инвестиции" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="120" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-22" value="Флаг подтверждения инвестиции = False" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="150" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-23" value="Флаг принятия денежных средств = False" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="180" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-17" value="&lt;b&gt;Структура Инвестиции:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="210" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPjrhK9Icks2y62qWZJQ-2" value="Номер инвестиции" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vd3nlWH89oePx9E8mEOI-7">
+          <mxGeometry y="240" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPjrhK9Icks2y62qWZJQ-3" value="Статус инвестиций (Закрыт, Открыт)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vd3nlWH89oePx9E8mEOI-7">
+          <mxGeometry y="270" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6lIFenstu8OwcUmVD7Q-5" value="Номер проекта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="300" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-20" value="Адрес хранителя денежных средств = автор проекта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="330" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-22" value="Адрес автора проекта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="360" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-23" value="Сумма инвестиций" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="390" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-19" value="Массив(Подинвестиция)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="420" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-8" value="&lt;b&gt;Данные:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="450" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-9" value="Приватный Словарь: (Номер проекта, Словарь(номер инвестиции, Инвестиция))" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="480" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-10" value="&lt;b&gt;Функции:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="510" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-11" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Инвестирование(Сумма инвестиции, Номер инвестиции, Номер проекта, Адрес хранителя денежных средств )&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="540" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-17" value="Получение всех инвестиций в проект (номер проекта)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="570" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-20" value="ПринятиеДенежныхСредств (номер проекта, номер инвестиции)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="600" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-25" value="ПодтверждениеИнвестиции(номер проекта)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Vd3nlWH89oePx9E8mEOI-7" vertex="1">
+          <mxGeometry y="630" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPjrhK9Icks2y62qWZJQ-1" value="Открытие инвестиций(номер проекта, адрес хранителя денежных средств): номер инвестиции" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vd3nlWH89oePx9E8mEOI-7">
+          <mxGeometry y="660" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd3nlWH89oePx9E8mEOI-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="-940" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-1" value="Выплаты" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="-1090" width="560" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-2" value="&lt;b&gt;Структура Выплата:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="30" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-31" value="Номер проекта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="60" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-3" value="Номер выплаты" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="90" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-4" value="Сумма выплаты" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="120" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-5" value="Назначение выплаты" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="150" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-8" value="Флаг подтверждения выплаты= False" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="180" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-9" value="Флаг принятия денежных средств = False" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="210" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-24" value="&lt;b&gt;Структура Выплаты:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="240" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-25" value="Массив(Выплата)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="270" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-10" value="&lt;b&gt;Данные:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="300" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-11" value="Приватный Словарь: (Номер проекта, Выплаты)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="330" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-29" value="Приватный Словарь ЗапросНаВыплату: (Номер проекта, Массив(Выплата))" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="360" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-12" value="&lt;b&gt;Функции:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="390" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-13" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Выплата (Сумма выплаты, Номер проекта)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="420" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-26" value="&lt;div&gt;ЗапросНаВыплату (Номер выплаты, выплата)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="450" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-14" value="Получение всех выплат проекта (номер проекта)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="480" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-15" value="Подтверждения запроса на выплату(номер проекта, номер выплаты)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="510" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-30" value="ПринятиеДенежныхСредств (номер проекта, номер выплаты)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="540" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ba8RHm9Cu_k9JrR7JxQT-16" value="Получение всех запросов на выплату(адрес хранителя денежных средств)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ba8RHm9Cu_k9JrR7JxQT-1" vertex="1">
+          <mxGeometry y="570" width="560" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
